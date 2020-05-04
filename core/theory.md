@@ -1,5 +1,5 @@
 ## Globals
-Globals are packages or modules which are inherently availbale in our application without requiring or downloading it, like window or document which are availbale in browser based applications. Globals in nodeJS app differ from browser based globals.
+Globals are packages or modules which are inherently availbale in our application without requiring or downloading it, like window or document which are available in browser based applications. Globals in nodeJS app differ from browser based globals.
 
 Few globals in nodeJS are: 
 1. require

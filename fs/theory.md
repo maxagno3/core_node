@@ -99,7 +99,7 @@ fs.ftruncate(fd, (err) => {
 fs.unlink is used to delete a file.
 It takes 2 arguments.
   - path to file
-  - err as callcak
+  - err as callback
 ```js
 fs.unlink(path, (err) => {
   // Return here
